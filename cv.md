@@ -1,9 +1,9 @@
-# Alexey Borisovets
+## Alexey Borisovets
 
 ----
 
 ### Contacts ###
-----
+
 * __Location:__ Minsk,Belarus
 * __Phone:__ +375(33)376-95-50
 * __Email:__ borisan4@gmail.com
