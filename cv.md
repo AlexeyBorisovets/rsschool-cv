@@ -1,5 +1,4 @@
-
-##### Alexey Borisovets #####
+# Alexey Borisovets
 
 ----
 
@@ -28,16 +27,17 @@ I am a second-year student of BSU, Faculty of Applied Mathematics and Computer S
 ----
 
 ### Code Example
-<
 
-function sum(a, b) {
+```Javascript
+
+function sum(a, b)
+{
   return a + b;
 }
-
 let result = sum(1, 2);
 alert( result );
 
->
+```
 
 ----
 
@@ -53,6 +53,7 @@ https://github.com/AlexeyBorisovets/rsschool-cv/blob/gh-pages/cv.md
 * __Courses:__ Several courses on the Stepik.
 
 ----
+
 ### English
 __Intermediate(B1)__
 
